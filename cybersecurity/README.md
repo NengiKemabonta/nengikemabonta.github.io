@@ -14,3 +14,4 @@ Below are hands-on projects, case studies and lab reports.
 **Deliverables:** Risk matrix, remediation steps.
 
 ---
+- [SOC Investigation: Example Company](./soc-investigation.md)
